@@ -1,4 +1,4 @@
-# Acorn Academy 3rd Team Project : MS TodoList (2023.00.00 ~ 2023.00.00)
+# Acorn Academy 3rd Team Project : MS TodoList (2023.09.14 ~ 2023.09.20)
 
 <img width="359" alt="투두리스트" src="https://github.com/khs220507/AcornAcademy_TeamProejct_TodoList/assets/129834692/f7d078c3-8ce0-46fb-8188-e2c000d1f105">
 
